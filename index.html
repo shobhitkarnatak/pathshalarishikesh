@@ -29,15 +29,7 @@
 		<!-- Custom CSS -->
 		<link rel="stylesheet" href="css/style.css">
 		<link rel="stylesheet" href="css/responsive.css">
-		<script>$(document).ready(function () {
-				$('#play-video').on('click', function (ev) {
 
-					$("#video")[0].src += "&autoplay=1";
-					ev.preventDefault();
-
-				});
-			});
-		</script>
 	</head>
 
 	<body>
@@ -507,6 +499,15 @@
 		<script type="text/javascript" src="js/assets/revolution/revolution.js"></script>
 		<!-- Custom JS -->
 		<script src="js/custom.js"></script>
+		<script>$(document).ready(function () {
+				$('#play-video').on('click', function (ev) {
+
+					$("#video")[0].src += "&autoplay=1";
+					ev.preventDefault();
+
+				});
+			});
+		</script>
 	</body>
 
 	<!-- Mirrored from ecologytheme.com/theme/eduread/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 01 Jun 2019 16:18:04 GMT -->
