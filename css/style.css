@@ -2090,7 +2090,7 @@
 	    transition: all 0.3s ease-in-out;
 	}
 	.home_version_03 header .header-body {
-	    background: url("../images/index-03/banner-bg.jpg") no-repeat center center;
+	    background: url("../images/assets/bb.png") no-repeat center center;
 	    min-height: 810px;
 	    background-size: cover;
 	    position: relative;
@@ -3720,7 +3720,7 @@
 	    /*===[ Single Courses Style tow]====*/
 	}
 	.single-courses_v header .header-body {
-	    background: url("../images/Single_cources/banner-bg.jpg") no-repeat center center;
+	    background: url("../images/assets/bb.png") no-repeat center center;
 	    min-height: 360px;
 	    background-size: cover;
 	    position: relative;
@@ -5335,7 +5335,7 @@
 =====================================================================================================*/
 	
 	.blog_1 header .header-body {
-	    background: url("../images/Single_cources/banner-bg.jpg") no-repeat center center;
+	    background: url("../images/assets/bb.png") no-repeat center center;
 	    min-height: 360px;
 	    background-size: cover;
 	    position: relative;
@@ -5770,7 +5770,7 @@
 =====================================================================================================*/
 	
 	.post-1 header .header-body {
-	    background: url("../images/Single_cources/banner-bg.jpg") no-repeat center center;
+	    background: url("../images/assets/bb.png") no-repeat center center;
 	    min-height: 360px;
 	    background-size: cover;
 	    position: relative;
@@ -6575,7 +6575,7 @@
 =====================================================================================================*/
 	
 	.t-profile-01 header .header-body {
-	    background: url("../images/Single_cources/banner-bg.jpg") no-repeat center center;
+	    background: url("../images/assets/bb.png") no-repeat center center;
 	    min-height: 360px;
 	    background-size: cover;
 	    position: relative;
@@ -6941,7 +6941,7 @@
 =====================================================================================================*/
 	
 	.become_teachers header .header-body {
-	    background: url("../images/Single_cources/banner-bg.jpg") no-repeat center center;
+	    background: url("../images/assets/bb.png") no-repeat center center;
 	    min-height: 360px;
 	    background-size: cover;
 	    position: relative;
@@ -7099,7 +7099,7 @@
 =====================================================================================================*/
 	
 	.event-details-1 header .header-body {
-	    background: url("../images/Single_cources/banner-bg.jpg") no-repeat center center;
+	    background: url("../images/assets/bb.png") no-repeat center center;
 	    min-height: 360px;
 	    background-size: cover;
 	    position: relative;
@@ -7494,7 +7494,7 @@
 	    /*=======[ Up Comming Events ]========*/
 	}
 	.event-01 header .header-body {
-	    background: url("../images/Single_cources/banner-bg.jpg") no-repeat center center;
+	    background: url("../images/assets/bb.png") no-repeat center center;
 	    min-height: 360px;
 	    background-size: cover;
 	    position: relative;
