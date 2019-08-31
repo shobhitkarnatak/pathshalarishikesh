@@ -162,14 +162,7 @@
 	/*=================================================
 		===[ Home Version 01 ]===
 ===================================================*/
-	
-	header {
-	    /*=======[ Index Navbar Style ]========*/
-	    /*=======[ Index Header Body Style ]========*/
-	    /*=======[ Index Rev Slider Style ]========*/
-	    /*=======[ Index Rev Slider btn  Style ]========*/
-	    /*slider btn style*/
-	}
+
 	header .header-top {
 	    background: #292929;
 	}
@@ -1360,7 +1353,7 @@
 	footer .footer-bottom .footer-bottom-inner .footer-menu li a {
 	    font-size: 14px;
 	    color: #9f9f9f;
-	    text-decoretion: none;
+	    text-decoration: none;
 	    transition: all 0.1s ease-in-out;
 	}
 	footer .footer-bottom .footer-bottom-inner .footer-menu li a:hover .facebook {
@@ -2058,19 +2051,7 @@
 										     ===[ Index  Version 03 ]===
 ================================================================================================================*/
 	
-	.home_version_03 {
-	    /*=======[ Index 03 Default Style ]========*/
-	    /*=======[ Index 03 Header Style ]========*/
-	    /*=======[ Index 03 Wellcome Area ]========*/
-	    /*=======[ Index 03 Search Courses Area ]========*/
-	    /*=======[ Index 03 Courses Area ]========*/
-	    /*=======[ Index 03 Achievment Area ]========*/
-	    /*=======[ Index 03 Gallery Area ]========*/
-	    /*=======[ Index 03 Student Count Area Style ]========*/
-	    /*=======[Index 03 Blog Area Style ]========*/
-	    /*=======[Index 03 Partners Area Style ]========*/
-	    /*=======[Index 03 Footer Area Style ]========*/
-	}
+
 	.home_version_03 .owl-prev {
 	    right: 55px;
 	}
@@ -2201,9 +2182,8 @@
 	    width: 100%;
 	}
 	.home_version_03 .Welcome-area .wel-shap .img-full-box .images-box {
-	    min-height: 290px img;
-	    min-height-height: 100%;
-	    min-height-width: 100%;
+	    min-height: 290px;
+	    min-height: 100%;
 	}
 	.home_version_03 .Welcome-area .wel-shap .content-full-box {
 	    padding-right: 70px;
@@ -2894,17 +2874,7 @@
 										===[ Index  Version 04  ]===
 =====================================================================================================*/
 	
-	.home_version_04 {
-	    /*=======[Index 04 Default Style ]========*/
-	    /*=======[Index 04 Navbar Style ]========*/
-	    /*=======[Index 04 Header Body Style ]========*/
-	    /*=======[Index 04 About And Video Area Style ]========*/
-	    /*=======[Index 04 Facilities Area Style ]========*/
-	    /*=======[Index 04 Courses Area Style ]========*/
-	    /*=======[Index 04 Trausted Student Area Style ]========*/
-	    /*=======[Index 04 Register & others Area Style ]========*/
-	    /*=======[Index 04 Footer Area Style ]========*/
-	}
+
 	.home_version_04 .section-h-medium {
 	    padding: 0;
 	    font-family: "Montserrat", sans-serif;
@@ -3714,11 +3684,7 @@
 										===[ Single Courses ]===
 =====================================================================================================*/
 	
-	.single-courses_v {
-	    /*===[Single Courses Header Style ]====*/
-	    /*===[ Single Courses_01 Single Courses Area Style ]====*/
-	    /*===[ Single Courses Style tow]====*/
-	}
+
 	.single-courses_v header .header-body {
 	    background: url("../images/assets/bb.png") no-repeat center center;
 	    min-height: 360px;
@@ -3946,7 +3912,6 @@
 	    font-weight: 500;
 	    position: relative;
 	    transition: all 0.4s linear 0s;
-	    vertical-align: middle;
 	    text-decoration: none;
 	}
 	.single-courses_v .single-courses-area .single-curses-contert .curriculum-text-box .curriculum-section .panel-group .panel .panel-title a.collapsed:before {
@@ -4280,7 +4245,6 @@
 	}
 	.single-courses_v .single-courses-area .sidebar-content .share-socila-link .social-icon ul li {
 	    display: inline-block;
-	    float: left;
 	    margin: 8px;
 	}
 	.single-courses_v .single-courses-area .sidebar-content .share-socila-link .social-icon ul li a {
@@ -4705,13 +4669,7 @@
 	/*====================================================================================================
 										===[ Courses Style ]===
 =====================================================================================================*/
-	
-	.courses {
-	    /*=======[Courses Style 01 ]========*/
-	    /*=======[Courses Style 02 ]========*/
-	    /*=======[Courses Style 03 ]========*/
-	    /*=======[Courses Style 04 ]========*/
-	}
+
 	.courses header .header-body {
 	    background: url("../images/assets/dd.jpg") no-repeat center center;
 	    min-height: 670px;
@@ -6737,7 +6695,6 @@
 	}
 	.t-profile-01 .teacher-prolile-01 .t-profile-right .teacher_skill .progress-bar-linear .progress-cont {
 	    display: inline-block;
-	    float: right;
 	    margin-right: 10px;
 	}
 	.t-profile-01 .teacher-prolile-01 .t-profile-right .teacher_skill .progress-bar-linear .progress-bar-skills {
@@ -7490,9 +7447,7 @@
 										===[ Events Page ]===
 =====================================================================================================*/
 	
-	.event-01 {
-	    /*=======[ Up Comming Events ]========*/
-	}
+
 	.event-01 header .header-body {
 	    background: url("../images/assets/bb.png") no-repeat center center;
 	    min-height: 360px;
