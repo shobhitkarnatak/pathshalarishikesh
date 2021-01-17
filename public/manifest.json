@@ -1,6 +1,6 @@
 {
   "name": "Pathshala Rishikesh",
-  "short_name": "PathshalaRishikesh",
+  "short_name": "पाठशाला",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
